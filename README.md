@@ -93,7 +93,7 @@ java NationalIDApp
 ## Sample CSV Output
 | NationalID | Name | Age | DOB | Gender | MaritalStatus | Relation | Phone | Email | Address | Pincode | State |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2145852 | Dipanshu Joshi | 20 | 25-03-2005 | Male | Unmarried | Father: Suresh Patil | 9999117777 | uday@education.com | Bandra West Mumbai | 34567 | Maharashtra |
+| 2145852 | Dipanshu Joshi | 20 | 25-03-2005 | Male | Unmarried | Father: Suresh Patil | 9999117777 | Dipanshu@education.com | Bandra West Mumbai | 34567 | Maharashtra |
 | 5903076 | Rahul Deshmukh | 23 | 20-02-2003 | Male | Unmarried | Father: Shrikant Deshmukh | 7777788999 | rahul@compnay.com | Sahibaug Ahmedabad | 382461 | Gujarat |
 | 5552702 | Neha Gupta | 34 | 16-01-1991 | Female | Married | Husband: Ravi Gupta | 888777902 | neha@gmail.com | Sector-25 Gurugram | 122221 | Haryana |
 | 1186232 | Ashutosh Dubey | 43 | 07-07-1982 | Male | Married | Wife: Sneha Dubey | 7777788891 | ashutosh@exmaple.com | Gandhinagar Lucknow | 2234567 | Uttar Pradesh |
